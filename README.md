@@ -2,5 +2,5 @@
 ● Materia: Taller de Lenguaje de Programación
 ● Año:2026
 ● Tu nombre completo: Francisco Porfirio Martinez Nuñez
-● Descripción breve del proyecto:
+● Descripción breve del proyecto: Desarrollo Web para el IPF
 ● Tecnologías utilizadas: VisualStudio, Bootstrap, HTML, CSS
