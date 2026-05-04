@@ -3,4 +3,4 @@
 ● Año:2026
 ● Tu nombre completo: Francisco Porfirio Martinez Nuñez
 ● Descripción breve del proyecto: Desarrollo Web para el IPF
-● Tecnologías utilizadas: VisualStudio, Bootstrap, HTML, CSS
+● Tecnologías utilizadas: VisualStudioCode, Bootstrap, HTML, CSS
